@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/components/PostInfo/PostInfo.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CCDpB,IACE,SAAU,CACV,cAAe","file":"main.67fd4341.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n",".h2 {\n  color: red;\n  font-size: 30px;\n}\n"]}
